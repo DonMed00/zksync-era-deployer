@@ -2,6 +2,7 @@
 ```
 This deployer is very easy to use.
 You can modify your contract or add a new contract.
+Clone the repository -> git clone 'https://github.com/DonMed00/zksync-era-deployer'
 The first step is to install the dependencies, if you meet the requirements of your pc, just run 'npm i'
 STEPS:
 1) Create the contract.
