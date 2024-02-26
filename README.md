@@ -10,5 +10,7 @@ STEPS:
 4) You must have funds in your wallet to pay the fees, after that use 'npx hardhat implement-zksync'
 5) Your contract will be deployed to your wallet, at the address shown in the terminal.
 
+If you want to clean your artifacts folder, use 'npx hardhat clean'
+
 
 ALL the docs are from https://docs.zksync.io/
