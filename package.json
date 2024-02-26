@@ -1,0 +1,25 @@
+{
+  "name": "prueba4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@ethersproject/hash": "^5.7.0",
+    "@ethersproject/web": "^5.7.1",
+    "@matterlabs/hardhat-zksync-deploy": "^1.1.2",
+    "@matterlabs/hardhat-zksync-solc": "^1.1.2",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "@types/node": "^20.11.17",
+    "ethers": "^6.11.1",
+    "hardhat": "^2.20.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3",
+    "zksync-web3": "^0.17.1"
+  }
+}
